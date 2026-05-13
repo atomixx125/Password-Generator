@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 This is a password generator that generates a random password string from a given set of quotes or an inputted quote. 
 
 ---
@@ -26,7 +26,7 @@ A fun and creative desktop password generator that transforms quotes into secure
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Option 1: Run from Source (Python required)
 
