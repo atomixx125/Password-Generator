@@ -7,7 +7,7 @@ This is a password generator that generates a random password string from a give
 
 A fun and creative desktop password generator that transforms quotes into secure passwords using leetspeak, symbols, and randomization.
 
-## ✨ Features
+## Features
 
 - **Pre-loaded famous quotes** from literature, history, and pop culture
 - **Custom quote support** — paste any text you want
@@ -15,9 +15,8 @@ A fun and creative desktop password generator that transforms quotes into secure
 - **Extra symbols & numbers** option
 - **Copy to clipboard** with one click
 - **Clean, modern Tkinter GUI**
-- **Ready to use as a standalone .exe**
 
-## 🎯 Example
+## Example
 
 **Input:**  
 `To be or not to be that is the question.`
